@@ -36,4 +36,5 @@ Week   | topic | chapters | Link to pdf|
 ---|---|---|---
 | 1 | intro Bayesian reasoning, sampling, R| 2-2.4.1,3-3.3.1 |[introduction](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week1/introduction.pdf) [Chapter2](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week1/Chapter2.pdf) [Chapter3](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week1/Chapter3.pdf)  [Exercises](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week1/Exercises.pdf) 
 |* | Lab1, Dedline: Friday 23/11 at 23.59 | about chap 2-3| [lab1.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week1/lab1.pdf) [Skeleton.R](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab1/skeleton.R)
+| 2 | Normal distribution, multivariate linear regression | 4,5 |[Chapter4](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week2/Chapter4.pdf) 
 
