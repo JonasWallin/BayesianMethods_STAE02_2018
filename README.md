@@ -38,6 +38,9 @@ Week   | topic | chapters | Link to pdf|
 |* | Lab1, Dedline: Tuesday 20/11 at 23.59 | about chap 2-3| [lab1.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week1/lab1.pdf) 
 | 2 | Normal distribution, multivariate linear regression | 4,5 |[Chapter4](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week2/Chapter4.pdf), [Chapter5](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week2/Chapter5.pdf) 
 | 3 | model comparsion| 6| [Chapter6](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week3/Chapter6.pdf) 
-|* | Lab2, Dedline: Friday 07/12 at 23.59 | about: chap 4-6| [lab2.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week3/lab2.pdf) [marbles2](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week3/marbles2.txt) [NAEP](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week3/NAEP.txt)
+|* | Lab2, Deadline: Friday 07/12 at 23.59 | about: chap 4-6| [lab2.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week3/lab2.pdf) [marbles2](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week3/marbles2.txt) [NAEP](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week3/NAEP.txt)
 | 4 | model comparsion| 7,9-10| [Chapter7910](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week4/Chapter7910.pdf) 
+| 5 | GLM| 7,9-10| [Chapter7910](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week4/Chapter7910.pdf) 
+| 6 | MCMC 8| 8 |[Chapter8](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week6/Chapter6.pdf) 
+| * | Home project: Deadline: Thursday 10/1 at 23.59| |[homeproj](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week6/homeProj.pdf) 
 
