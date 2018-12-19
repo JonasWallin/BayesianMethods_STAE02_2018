@@ -43,4 +43,4 @@ Week   | topic | chapters | Link to pdf|
 | 5 | GLM| 7,9-10| [Chapter7910](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week4/Chapter7910.pdf) 
 | 6 | MCMC 8| 8 |[Chapter8](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week6/Chapter6.pdf) 
 | * | Home project: Deadline: Thursday 10/1 at 23.59| |[homeproj](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week6/homeProj.pdf) 
-
+| 7 | Multilevel 8| 12 |[Chapter12](https://github.com/JonasWallin/BayesianMethods_STAE02_2018/blob/master/week7/Chapter12.pdf) 
